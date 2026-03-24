@@ -53,7 +53,7 @@ This section analyzes Sea Surface Temperature (SST) anomalies before, during, an
 
 This analysis presents the monthly average Sea Surface Temperature (SST) from 2014 to 2022 to provide long-term context for Cyclone Amphan.
 
-![Long-Term SST](SST_TS.png)
+![Long-Term SST](SST_TS.jpg)
 
 ### File
 
