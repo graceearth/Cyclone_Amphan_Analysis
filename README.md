@@ -37,3 +37,32 @@ This section shows the spatial distribution of chlorophyll concentration during 
 
 - `Chlorophyll_map.ipynb` → chlorophyll analysis notebook
 - `Chlorophyll_map.png` → visualization output
+
+- ---
+
+---
+
+## Sea Surface Temperature (SST) Analysis
+
+This section analyzes Sea Surface Temperature (SST) anomalies before, during, and after Cyclone Amphan using CMEMS satellite-derived data.
+
+### Data Source
+
+- CMEMS (Copernicus Marine Environment Monitoring Service)  
+- Product: `METOFFICE-GLO-SST-L4-REP-OBS-SST`  
+- File used: `METOFFICE-GLO-SST-L4-REP-OBS-SST_1750412263472.nc`
+
+### Analysis
+
+- SST anomaly maps were generated to observe temperature variations  
+- Comparison includes:
+  - Before cyclone  
+  - During cyclone  
+  - After cyclone  
+
+![SST Map](SST_Anomaly.png)
+
+### Files
+
+- `SST_Anomaly.ipynb` → SST analysis notebook  
+- `SST_Anomaly.png` → SST anomaly visualization  
