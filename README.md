@@ -49,6 +49,19 @@ This section analyzes Sea Surface Temperature (SST) anomalies before, during, an
 
 - ---
 
+### Long-Term SST Time Series (2014–2022)
+
+This analysis presents the monthly average Sea Surface Temperature (SST) from 2014 to 2022 to provide long-term context for Cyclone Amphan.
+
+![Long-Term SST](SST_TS.png)
+
+### File
+
+- `CMEMS_SST.ipynb` → long-term SST time series analysis
+- `SST_TS.png` → monthly SST time series visualization
+
+- ---
+
 ## Chlorophyll Analysis
 
 This section shows the spatial distribution of chlorophyll concentration during Cyclone Amphan using Sentinel-3 OLCI data.
