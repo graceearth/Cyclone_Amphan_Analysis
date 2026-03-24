@@ -20,24 +20,6 @@ Cyclone Amphan was a powerful tropical cyclone in the Bay of Bengal in May 2020.
 - `amphantrack2.ipynb` → cyclone track analysis notebook
 - `cyclone_track.png` → visualization output
 
-- ---
-
-## Chlorophyll Analysis
-
-This section shows the spatial distribution of chlorophyll concentration during Cyclone Amphan using Sentinel-3 OLCI data.
-
-### Data Source
-
-- Sentinel-3 OLCI Level-2 product from EUMETSAT  
-- File used: `S3B_OL_2_WFR____20200524T040216_20200524T040516_20210617T213340_0179_039_161______MAR_R_NT_003.SEN3`
-
-![Chlorophyll Map](Chlorophyll_map.png)
-
-### Files
-
-- `Chlorophyll_map.ipynb` → chlorophyll analysis notebook
-- `Chlorophyll_map.png` → visualization output
-
 ---
 
 ## Sea Surface Temperature (SST) Anomalies
@@ -63,4 +45,22 @@ This section analyzes Sea Surface Temperature (SST) anomalies before, during, an
 ### Files
 
 - `SST_Anomaly.ipynb` → SST analysis notebook  
-- `SST_Anomaly.png` → SST anomaly visualization  
+- `SST_Anomaly.png` → SST anomaly visualization
+
+- ---
+
+## Chlorophyll Analysis
+
+This section shows the spatial distribution of chlorophyll concentration during Cyclone Amphan using Sentinel-3 OLCI data.
+
+### Data Source
+
+- Sentinel-3 OLCI Level-2 product from EUMETSAT  
+- File used: `S3B_OL_2_WFR____20200524T040216_20200524T040516_20210617T213340_0179_039_161______MAR_R_NT_003.SEN3`
+
+![Chlorophyll Map](Chlorophyll_map.png)
+
+### Files
+
+- `Chlorophyll_map.ipynb` → chlorophyll analysis notebook
+- `Chlorophyll_map.png` → visualization output
