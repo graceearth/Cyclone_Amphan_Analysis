@@ -77,3 +77,21 @@ This section shows the spatial distribution of chlorophyll concentration during 
 
 - `Chlorophyll_map.ipynb` → chlorophyll analysis notebook
 - `Chlorophyll_map.png` → visualization output
+
+---
+
+### Chlorophyll Time Series (2014–2024)
+
+This analysis presents the monthly chlorophyll concentration from 2014 to 2024 using OC-CCI satellite-derived data to provide long-term biological context.
+
+![Chlorophyll Time Series](Chl_TS.png)
+
+### Data Source
+
+- OC-CCI (Ocean Colour Climate Change Initiative)  
+- Monthly chlorophyll data (.csv format)
+
+### Files
+
+- `Chl_TS.ipynb` → chlorophyll time series analysis  
+- `Chl_TS.png` → chlorophyll time series visualization  
